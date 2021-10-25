@@ -1,4 +1,7 @@
+
 # GroupeADO
+
+- Bonjour, je suis Toan.
 
 - Bonjour, je suis Manh-Trung, je suis ton binôme
 
