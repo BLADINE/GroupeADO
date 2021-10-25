@@ -1,5 +1,4 @@
 # GroupeADO
-<<<<<<< HEAD
 
 - Bonjour je suis RENAUD.tom
 
@@ -10,9 +9,6 @@
 - Bonjour, je suis Gabriel DEGEZ
 
 - Bonjour je suis Matthias Bocquelet
-=======
-- Bonjour, je suis Matthias Bocquelet et mon biome est : 
->>>>>>> 3efd2976d260344e657d9fb8ff6c698405ef0f93
 
 - Bonjour, je suis Toan. Je viens d'ajouter nouveau commit
 
