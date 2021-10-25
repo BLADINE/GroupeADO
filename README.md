@@ -1,8 +1,11 @@
 # GroupeADO
 - Bonjour je suis ton binôme, Bonjour Natalia
 
+<<<<<<< HEAD
 - Bonjour je suis Said.KABENE 
 
+=======
+>>>>>>> fc58793d82e32e0de9ace80045da44c7c65c08b2
 - Bonjour, je suis Gabriel DEGEZ
 
 - Bonjour je suis Matthias Bocquelet
