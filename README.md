@@ -19,7 +19,7 @@ Bonjour je suis ton binôme, Bonjour Natalia
 -Bonjour, je suis NGAMY Gianni-Alessandro
 
 
-- Bonjour, je suis Nicolas Soumaré
+- Bonjour, je suis Nicolas Soumaré , je suis ton binome j'accepte pas ton bonjour
 - Bonjour, je suis NGAMY Gianni-Alessandro
 
 - Bonjour je m'appelle Matthias BOCQUELET
