@@ -1,7 +1,7 @@
 # GroupeADO
-Bonjour je suis ton binôme, Bonjour Natalia
+- Bonjour je suis ton binôme, Bonjour Natalia
 
--Bonjour je suis Said.KABENE 
+- Bonjour je suis Said.KABENE 
 
 
 - Bonjour, je suis Alexandre
@@ -16,7 +16,7 @@ Bonjour je suis ton binôme, Bonjour Natalia
 
 - Bonjour, je suis Quan NGUYEN
 
--Bonjour, je suis NGAMY Gianni-Alessandro
+- Bonjour, je suis NGAMY Gianni-Alessandro
 
 
 - Bonjour, je suis Nicolas Soumaré , je suis ton binome j'accepte pas ton bonjour
