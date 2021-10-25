@@ -24,7 +24,7 @@
 
 - Bonjour je m'appelle Matthias BOCQUELET
 
-- Bonjour je suis RENAUD.tom
+- Bonjour je suis RENAUD.tom, je suis ton binome sy.virak
 
 - Bonjour je suis Lionel Messi
 
