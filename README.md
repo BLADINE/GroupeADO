@@ -1,7 +1,5 @@
 # GroupeADO
-- Bonjour, je suis Gabriel DEGEZ
-
-- Bonjour je suis Matthias Bocquelet et je travaille avec 
+- Bonjour, je suis Matthias Bocquelet et mon biome est : 
 
 - Bonjour, je suis Toan.
 
