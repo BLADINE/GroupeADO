@@ -26,3 +26,6 @@ Bonjour je suis ton binôme, Bonjour Natalia
 
 - Bonjour je suis RENAUD.tom
 
+- Bonjour je suis Aziz Abderrahmen
+
+- Bonjour je suis Anoujean Balachandran
