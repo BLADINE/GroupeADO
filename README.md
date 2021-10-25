@@ -1,9 +1,12 @@
 # GroupeADO
+
+- Bonjour je suis RENAUD.tom
+
 - Bonjour, je suis Gabriel DEGEZ
 
 - Bonjour je suis Matthias Bocquelet
 
-- Bonjour, je suis Toan.
+- Bonjour, je suis Toan. Je viens d'ajouter nouveau commit
 
 - Bonjour, je suis Manh-Trung, je suis ton binôme
 
@@ -14,3 +17,4 @@
 - Bonjour je m'appelle Matthias BOCQUELET
 
 - Bonjour je suis RENAUD.tom
+
