@@ -1,4 +1,3 @@
-
 # GroupeADO
 - Bonjour, je suis Gabriel DEGEZ
 
@@ -12,3 +11,4 @@
 
 - Bonjour, je suis NGAMY Gianni-Alessandro
 
+- Bonjour, je m'appelle Gabriel DEGEZ et je travaille avec toi
