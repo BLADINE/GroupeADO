@@ -1,6 +1,5 @@
 # GroupeADO
 
-<<<<<<< HEAD
 - Bonjour je suis RENAUD.tom
 
 - Bonjour je suis ton binôme, Bonjour Natalia
@@ -36,6 +35,5 @@
 - Bonjour, je suis Emeline
 
 je suis ton binome pierre.p
-=======
+
 Bonjour, je suis Ashanth
->>>>>>> 45755fc (Modification ReadMe)
