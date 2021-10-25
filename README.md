@@ -5,7 +5,7 @@
 
 - Bonjour, je suis Toan.
 
-- Bonjour, je suis Manh-Trung, je suis ton binôme
+- Bonjour, je suis Manh-Trung 
 
 - Bonjour, je suis Quan NGUYEN
 
