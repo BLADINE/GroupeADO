@@ -1,6 +1,6 @@
 # GroupeADO
 
-Bonjour, je suis NGAMY Gianni-Alessandro Bonjour je suis ton binome nam.maxime
+- Bonjour, je suis NGAMY Gianni-Alessandro Bonjour je suis ton binome nam.maxime
 
 - Bonjour, je suis Alexandre
 
@@ -15,8 +15,6 @@ Bonjour, je suis NGAMY Gianni-Alessandro Bonjour je suis ton binome nam.maxime
 - Bonjour, je suis Quan NGUYEN
 
 - Bonjour, je suis Nicolas Soumaré
-
-- Bonjour, je suis NGAMY Gianni-Alessandro
 
 - Bonjour je m'appelle Matthias BOCQUELET
 
