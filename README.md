@@ -13,6 +13,8 @@
 
 - Bonjour, je suis Quan NGUYEN, OK
 
+- Bonjour, je suis NGAMY Gianni-Alessandro
+
 - Bonjour, je suis Nicolas Soumaré , je suis ton binome j'accepte pas ton bonjour
 
 - Bonjour, je suis NGAMY Gianni-Alessandro
