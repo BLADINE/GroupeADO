@@ -6,8 +6,6 @@
 
 - Bonjour je suis Said.KABENE
 
-- Bonjour, je suis Alexandre
-
 - Bonjour, je suis Gabriel DEGEZ
 
 - Bonjour je suis Matthias Bocquelet
@@ -36,8 +34,10 @@
 
 - Bonjour, je suis Emeline
 
-je suis ton binome pierre.p
+- Bonjour, je suis Mohamed MOINDJIE.
 
-Bonjour, je suis Ashanth
+- je suis ton binome pierre.p
 
-Bonjour, je suis Roukia
+- Bonjour, je suis Ashanth
+
+- Bonjour, je suis Roukia
