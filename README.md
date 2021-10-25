@@ -1,5 +1,5 @@
-
 # GroupeADO
+Bonjour je suis ton binôme, Bonjour Natalia
 
 -Bonjour je suis Said.KABENE 
 
