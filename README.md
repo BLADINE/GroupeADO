@@ -4,7 +4,7 @@
 
 - Bonjour je suis ton binôme, Bonjour Natalia
 
-- Bonjour je suis Said.KABENE 
+- Bonjour je suis Said.KABENE
 
 - Bonjour, je suis Gabriel DEGEZ
 
@@ -35,3 +35,5 @@
 - Bonjour je suis Anoujean Balachandran
 
 - Bonjour, je suis Emeline
+
+je suis ton binome pierre.p
