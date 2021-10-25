@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# GroupeADO
-
-Bonjour je suis RENAUD.tom
-=======
-
 # GroupeADO
 - Bonjour, je suis Gabriel DEGEZ
 
@@ -17,4 +11,6 @@ Bonjour je suis RENAUD.tom
 
 - Bonjour, je suis NGAMY Gianni-Alessandro
 
->>>>>>> 7e0226e063cf1a757ea308db6090ca5def37da63
+- Bonjour je m'appelle Matthias BOCQUELET
+
+- Bonjour je suis RENAUD.tom
